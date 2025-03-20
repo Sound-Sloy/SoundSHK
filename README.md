@@ -7,12 +7,12 @@ A lightweight script that enables typing Romanian diacritics using Alt + key com
 ✅ Works in all text editors  
 
 ## Installation  
-# RO_font.exe
+### RO_font.exe
 1. Download the script
 2. Run `RO_font.exe` (for Windows) or manually add it to startup  
 3. Start typing with Alt + corresponding keys
 
-# RO_font.ahk
+### RO_font.ahk
 1. Download [AutoHotkey](https://www.autohotkey.com)
 2. Download the script (`RO_font.ahk`)
 3. Run `RO_font.ahk` (for Windows) or manually add it to startup  
